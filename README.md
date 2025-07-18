@@ -1,1 +1,2 @@
-# controlPanelPublic
+# controlPanel
+Демонстрационное приложение для работы с платой
